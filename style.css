@@ -1,3 +1,24 @@
 .navbar_container a{
     text-decoration: none;
+    font-size: 4rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #3352ff;
+    background-color: aquamarine;
+}
+
+.sticky-note{
+    margin: 40px;
+    background-color: chartreuse;
+    width: 200px;
+    height: 200px;
+    /*      atas kanan bawah kiri */
+    padding: 10px 30px 10px 30px;
+}
+
+.sticky-note h4{
+
+}
+
+.sticky-note p{
+    font-family: Arial, Helvetica, sans-serif;
 }
